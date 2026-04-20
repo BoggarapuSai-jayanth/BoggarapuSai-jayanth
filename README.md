@@ -279,7 +279,7 @@ I don't just build apps — I architect systems. From **JWT-secured REST APIs** 
 <div align="center">
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-4⭐_Python-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/boggarapusai1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solving_Daily-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solving_Daily-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]((https://leetcode.com/u/Sai1449/))
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/)
 
